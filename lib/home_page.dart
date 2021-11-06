@@ -161,7 +161,7 @@ class LinkedIn extends StatelessWidget {
                   Expanded(
                     flex: 1,
                     child: Icon(
-                      Icons.message,
+                      Icons.near_me_rounded,
                       size: 30,
                       color: Colors.grey,
                     ),
